@@ -10,3 +10,25 @@ img
 {
   border-radius: 10px;
 }
+#Nombres
+{
+
+}
+#Contenedor
+{
+  font-family: helvetica;
+  font-size: 16px;
+}
+#Encabezado
+{
+  display: block;
+  margin: 0 auto;
+}
+.itemIndice
+{
+  list-style: armenian;
+}
+.enlace
+{
+  color: red; 
+}
